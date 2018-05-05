@@ -1,5 +1,5 @@
 {
-    "name": "povils/omnipay-paysera",
+    "name": "naujialgoritmai/omnipay-paysera",
     "type": "library",
     "description": "Paysera gateway for Omnipay payment processing library",
     "keywords": [
